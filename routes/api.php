@@ -23,3 +23,6 @@ Route::get('/getList', [Api\ArticleController::class, 'getList']);
 
 // 请求地址则为 http://域名/api/getDetail/xxx
 Route::get('/getDetail/{id}', [Api\ArticleController::class, 'getDetail']);
+
+// 请求地址则为 http://域名/api/getRoomInfo/xx
+Route::get('/getRoomInfo/{id}', [Api\UserController::class, 'getRoomInfo']);
