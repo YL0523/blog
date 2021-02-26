@@ -108,6 +108,9 @@
       <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
       <path value="$PROJECT_DIR$/vendor/laravel/framework" />
       <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/huddledigital/zendesk-laravel" />
+      <path value="$PROJECT_DIR$/vendor/zendesk/zendesk_api_client_php" />
+      <path value="$PROJECT_DIR$/vendor/mmucklo/inflect" />
     </include_path>
   </component>
   <component name="PhpUnit">

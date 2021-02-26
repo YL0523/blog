@@ -6,5 +6,8 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Zendesk\\Console\\' => array($vendorDir . '/zendesk/zendesk_api_client_php/src'),
+    'Zendesk\\API\\' => array($vendorDir . '/zendesk/zendesk_api_client_php/src'),
     'Mockery' => array($vendorDir . '/mockery/mockery/library'),
+    'Inflect' => array($vendorDir . '/mmucklo/inflect/src'),
 );

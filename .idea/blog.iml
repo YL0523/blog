@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
       <sourceFolder url="file://$MODULE_DIR$/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/huddledigital/zendesk-laravel" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mmucklo/inflect" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/zendesk/zendesk_api_client_php" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
